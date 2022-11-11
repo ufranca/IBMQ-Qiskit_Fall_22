@@ -1,1 +1,1 @@
-IBMQ-Qiskit_Fall_22
+Labs for IBM Quantum Challenge Fall 2022
